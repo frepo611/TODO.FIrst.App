@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace TODO.FIrst.App
+namespace TODO.FIrst.App.Platforms.iOS
 {
     public class Program
     {
