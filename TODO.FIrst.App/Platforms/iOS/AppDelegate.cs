@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace TODO.FIrst.App
+namespace TODO.FIrst.App.Platforms.iOS
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate
